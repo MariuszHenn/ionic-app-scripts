@@ -1,3 +1,8 @@
+<a name="3.1.3"></a>
+## [3.1.3](https://github.com/ionic-team/ionic-app-scripts/compare/v3.1.2...v3.1.3) (2017-11-25)
+
+
+
 <a name="3.1.2"></a>
 ## [3.1.2](https://github.com/ionic-team/ionic-app-scripts/compare/v3.1.1...v3.1.2) (2017-11-13)
 
